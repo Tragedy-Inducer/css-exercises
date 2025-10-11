@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+.decleration{
+    background-color: red;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+#decleration2{
+    color: blue;
+    font-size: 36px;
+}
+.cooler{
+    
+    font-size: 36px;
+    color: blue;
+}
+#cooler2{
+    background-color: red;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+    font-size: 24px
+}
+.last{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
